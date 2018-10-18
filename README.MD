@@ -1,3 +1,5 @@
+GIT CHEAT SHEET - IMPORTANT
+
 git init
 
 git config --global user.name "Wojtek Wysoglad"
