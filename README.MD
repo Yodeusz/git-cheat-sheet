@@ -5,3 +5,7 @@ git config --global user.email yodeusz@gmail.com
 
 git add README.MD
 git commit -m" XXX "
+
+git remote add origin /ADRES REPO/ np. https://github.com/Yodeusz/git-cheat-sheet.git
+git push -u origin master
+
